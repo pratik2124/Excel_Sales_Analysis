@@ -8,5 +8,7 @@ An ecommerce company wants to create a report on their sales performance from ye
 
 + In Furniture Category, the sales of Chairs was highest from year 2014 to 2017.
 + In Office Supplies Category, the sales of storage was highest from year 2014 to 2016.
-+ In Technology category, the sales of    
++ In Technology category, the sales of phones was highest from year 2014 to 2017.
++ Sales in the California state was the highest amongst all states.
+  
 
