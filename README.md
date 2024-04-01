@@ -11,7 +11,7 @@ An ecommerce company wants to create a report on their sales performance from ye
 + In Technology category, the sales of phones was highest from year 2014 to 2017.
 + Sales in the California state was the highest amongst all states.
 
-
+## Dashboard
 
 ![Screenshot 2024-02-15 193630](https://github.com/pratik2124/Excel_Sales_Analysis/assets/156676954/797b91f5-dfa0-4223-886a-3665502c31b8)
 
